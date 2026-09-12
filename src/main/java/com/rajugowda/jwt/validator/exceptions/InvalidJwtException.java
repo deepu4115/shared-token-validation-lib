@@ -1,6 +1,5 @@
 package com.rajugowda.jwt.validator.exceptions;
 
-import io.jsonwebtoken.ExpiredJwtException;
 import io.jsonwebtoken.JwtException;
 
 public class InvalidJwtException extends RuntimeException {
